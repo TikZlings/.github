@@ -19,7 +19,7 @@ Video | Source
 ----- | --------- 
 <a href="https://vimeo.com/337320777"><img src="https://user-images.githubusercontent.com/43832342/61394501-84b42b80-a8c3-11e9-9540-c9c80e6b3b34.png" alt="Welcome to Bayreuth" title="Welcome to Bayreuth" height="128"></a> | [Welcome to Bayreuth](https://github.com/TikZlings/Wagner)
 <a href="https://vimeo.com/315852862"><img src="https://user-images.githubusercontent.com/43832342/147774850-932511a3-189e-4ba4-a3b6-3a0e0e2d30af.png" alt="The tikzlings welcome party" title="The tikzlings welcome party" height="128"></a>  | [The tikzlings welcome party](https://github.com/TikZlings/bnb)
-<a href="https://vimeo.com/396083071"><img src="https://user-images.githubusercontent.com/43832342/147775259-5c395ea9-fe4f-408e-bab7-fcac07ed9bc8.png" alt="Rhabarberbarbara" title="Rhabarberbarbara" height="128"></a>  | [The tikzlings welcome party](https://github.com/TikZlings/rhabarberbarbara)
+<a href="https://vimeo.com/396083071"><img src="https://user-images.githubusercontent.com/43832342/147775259-5c395ea9-fe4f-408e-bab7-fcac07ed9bc8.png" alt="Rhabarberbarbara" title="Rhabarberbarbara" height="128"></a>  | [Rhabarberbarbara](https://github.com/TikZlings/rhabarberbarbara)
 
 
 ## Even more videos

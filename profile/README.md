@@ -5,8 +5,9 @@ Welcome to the Ti*k*Zlings organisation, a place to collect various things from 
 ## Extravaganza videos
 
 Video | Source 
------ | ---------  
-<a href="https://vimeo.com/894435614"><img src="https://github.com/TikZlings/Extravaganza2023/blob/main/intermissions/Title.png" alt="The great TikZlings Christmas Extravaganza 2023" title="The great TikZlings Christmas Extravaganza 2022" height="128"></a> | [The Great Tikzlings Christmas Extravaganza 2023](https://github.com/TikZlings/Extravaganza2023)
+----- | ---------
+<a href="https://vimeo.com/1038963018"><img src="https://github.com/TikZlings/Extravaganza2024/blob/main/intermissions/icon_small.png" alt="The great TikZlings Christmas Extravaganza 2024" title="The great TikZlings Christmas Extravaganza 2024" height="128"></a> | [The Great Tikzlings Christmas Extravaganza 2024](https://github.com/TikZlings/Extravaganza2024)
+<a href="https://vimeo.com/894435614"><img src="https://github.com/TikZlings/Extravaganza2023/blob/main/intermissions/Title.png" alt="The great TikZlings Christmas Extravaganza 2023" title="The great TikZlings Christmas Extravaganza 2023" height="128"></a> | [The Great Tikzlings Christmas Extravaganza 2023](https://github.com/TikZlings/Extravaganza2023)
 <a href="https://vimeo.com/780457002"><img src="https://user-images.githubusercontent.com/43832342/207338756-bc83e92a-89c0-4f5f-89c1-31ca81cd3902.png" alt="The great TikZlings Christmas Extravaganza 2022" title="The great TikZlings Christmas Extravaganza 2022" height="128"></a> | [The Great Tikzlings Christmas Extravaganza 2022](https://github.com/TikZlings/Extravaganza2022)
 <a href="https://vimeo.com/660399886"><img src="https://user-images.githubusercontent.com/43832342/147475062-6180d904-c24c-4c21-877e-e55f5e4e91ad.png" alt="The great TikZlings Christmas Extravaganza 2021" title="The great TikZlings Christmas Extravaganza 2021" height="128"></a> | [The Great Tikzlings Christmas Extravaganza 2021](https://github.com/TikZlings/Extravaganza2021)
 <a href="https://vimeo.com/492532561"><img src="https://user-images.githubusercontent.com/43832342/102637280-0c0b6b80-4156-11eb-8031-c67c20b474f4.png" alt="The great TikZlings Christmas Extravaganza 2020" title="The great TikZlings Christmas Extravaganza 2020" height="128"></a> | [The Great Tikzlings Christmas Extravaganza 2020](https://github.com/TikZlings/Extravaganza2020)

@@ -4,6 +4,14 @@ Welcome to the Ti*k*Zlings organisation, a place to collect various things from 
 
 ## Ti*k*Zlings calendars
 
+A printed German version of the 2027 Calendar is currently available for pre-order at https://www.dante.de/dante-onlineshop/#kalender (until 29. November 2026)
+
+<!-- <a href="./resources/calendar/27_extravaganza_calendar_en.pdf"> -->
+<img src="./resources/calendar/27_extravaganza_calendar_en-preview.png" alt="The great TikZlings Calendar 2027" title="The great TikZlings Calendar 2027" height="128">
+<!-- </a> -->
+<!-- <a href="./resources/calendar/27_extravaganza_calendar_de.pdf"> -->
+<img src="./resources/calendar/27_extravaganza_calendar_de-preview.png" alt="Der große TikZlings Kalender 2027" title="Der große TikZlings Kalender 2027" height="128">
+<!-- </a> -->
 <a href="./resources/calendar/26_extravaganza_calendar.pdf"><img src="./resources/calendar/26_extravaganza_calendar-preview.png" alt="The great TikZlings Calendar 2026" title="The great TikZlings Calendar 2026" height="128"></a>
 <a href="./resources/calendar/25_extravaganza_calendar.pdf"><img src="./resources/calendar/25_extravaganza_calendar-preview.png" alt="The great TikZlings Calendar 2025" title="The great TikZlings Calendar 2025" height="128"></a> 
 

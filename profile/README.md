@@ -2,6 +2,11 @@
 
 Welcome to the Ti*k*Zlings organisation, a place to collect various things from the Ti*k*Zlings ecosystem!
 
+## Ti*k*Zlings calendars
+
+<a href="./resources/calendar/26_extravaganza_calendar.pdf"><img src="./resources/calendar/26_extravaganza_calendar-preview.png" alt="The great TikZlings Calendar 2026" title="The great TikZlings Calendar 2026" height="128"></a>
+<a href="./resources/calendar/25_extravaganza_calendar.pdf"><img src="./resources/calendar/25_extravaganza_calendar-preview.png" alt="The great TikZlings Calendar 2025" title="The great TikZlings Calendar 2025" height="128"></a> 
+
 ## Extravaganza videos
 
 Video | Source 
